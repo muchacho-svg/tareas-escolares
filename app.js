@@ -32,7 +32,6 @@ const usuarios = {
 };
 
     // AQUÍ PUEDES AGREGAR MÁS…
-};
 
 // Guardar tareas
 if (!localStorage.tareas) localStorage.tareas = JSON.stringify([]);
@@ -122,4 +121,5 @@ if (document.getElementById("contenidoTareas")) {
 
     document.getElementById("contenidoTareas").innerHTML = html;
 }
+
 
