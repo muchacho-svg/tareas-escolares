@@ -3,6 +3,34 @@ const usuarios = {
     "aaron": { pass: "a1", tipo: "gratis" },
     "luana": { pass: "l2", tipo: "premium" },
     "juan": { pass: "j3", tipo: "gratis" },
+    "milagros1": { pass: "m4", tipo: "gratis" },
+    "bruno": { pass: "b5", tipo: "gratis" },
+    "moises": { pass: "m6", tipo: "gratis" },
+    "elvis": { pass: "e7", tipo: "gratis" },
+    "rosario": { pass: "r8", tipo: "gratis" },
+    "fiorella": { pass: "f9", tipo: "gratis" },
+    "luana2": { pass: "l10", tipo: "gratis" }, // Luana Victoria
+    "keren": { pass: "k11", tipo: "gratis" },
+    "rodrigo1": { pass: "r12", tipo: "gratis" }, // Salvador
+    "rodrigo2": { pass: "r13", tipo: "gratis" }, // Abner
+    "rael": { pass: "r14", tipo: "gratis" },
+    "eduardo": { pass: "e15", tipo: "gratis" },
+    "hatsumy": { pass: "h16", tipo: "gratis" },
+    "yaren": { pass: "y17", tipo: "gratis" },
+    "sebastian": { pass: "s18", tipo: "gratis" },
+    "yunsei": { pass: "y19", tipo: "gratis" },
+    "gianella": { pass: "g20", tipo: "gratis" },
+    "kevin": { pass: "k21", tipo: "gratis" },
+    "angie": { pass: "a22", tipo: "gratis" },
+    "luana3": { pass: "l23", tipo: "gratis" }, // Luana Gabriela
+    "pierina": { pass: "p24", tipo: "gratis" },
+    "rodrigo3": { pass: "r25", tipo: "gratis" }, // Franco Vega
+    "jhoilson": { pass: "j26", tipo: "gratis" },
+    "stephano": { pass: "s27", tipo: "gratis" },
+    "itzae": { pass: "i28", tipo: "gratis" },
+    "matias": { pass: "m29", tipo: "gratis" }
+};
+
     // AQUÍ PUEDES AGREGAR MÁS…
 };
 
@@ -94,3 +122,4 @@ if (document.getElementById("contenidoTareas")) {
 
     document.getElementById("contenidoTareas").innerHTML = html;
 }
+
